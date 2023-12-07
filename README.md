@@ -1,6 +1,6 @@
-# Note-Taker-Express
+# Web App Text Editor
 
-Using express.js to create and have a productive note taker to save and retrieve user notes.
+Embark on a journey to craft a cutting-edge browser-based text editor, seamlessly blending Progressive Web App capabilities and robust data persistence techniques. Employing the powerful idb package for streamlined interaction with IndexedDB, this project promises a dynamic fusion of offline functionality, ensuring a stellar showcase of your mastery in web development.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
