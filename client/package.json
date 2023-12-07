@@ -1,5 +1,5 @@
 {
-  "name": "web-app-text-editor",
+  "name": "jate",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
