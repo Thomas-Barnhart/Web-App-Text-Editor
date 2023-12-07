@@ -1,3 +1,5 @@
+const butInstall = document.getElementById('buttonInstall');
+
 // Event listener for the 'beforeinstallprompt' event, triggered when the browser
 // determines that the app is installable. The event is stored for later use.
 window.addEventListener("beforeinstallprompt", (event) => {
